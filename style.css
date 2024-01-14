@@ -1,0 +1,17 @@
+.container {
+	padding: 100px 100px;
+}
+.html.body {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url('bg1.jpg');
+	background-position: center center;
+}
+.card.ml{ 
+	display: inline-block;
+	border: 1px solid gray;
+	border-radius: 5px;
+	background-image: url('bg.jpg');
+}
